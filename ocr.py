@@ -15,7 +15,7 @@ st.markdown("")
 image = st.file_uploader(label = "Upload your image here",type=['png','jpg','jpeg'])
 
 
-st.cache_resource
+@st.cache_resource
 def load_model(): 
     reader = ocr.Reader(['en','hi'],model_storage_directory='.')
     return reader 
