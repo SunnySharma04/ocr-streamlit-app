@@ -3,4 +3,4 @@ streamlit
 tesseract
 numpy
 Pillow - https://python-pillow.org/
-After downloading this repo and installing the required packages run the following code to run the
+
