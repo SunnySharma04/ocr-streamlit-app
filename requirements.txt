@@ -2,5 +2,5 @@ easyocr
 streamlit
 tesseract
 numpy
-Pillow - https://python-pillow.org/
+pillow
 
