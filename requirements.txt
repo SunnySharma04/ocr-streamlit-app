@@ -1,1 +1,6 @@
 easyocr
+streamlit
+tesseract
+numpy
+pillow
+
